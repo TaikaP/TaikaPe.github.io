@@ -1,0 +1,51 @@
+
+
+h2 {
+	
+	padding: 30px;
+	text-align: center;
+	font-size: 25px;
+	color: black;
+	margin-top: 0px;
+	
+}
+
+	p {
+		text-align: center;
+		
+	
+	}
+	
+h1 {
+	
+  padding: 30px;
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  margin-top: 0px;
+  background-color: lightgrey; 
+  }
+
+img {
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+
+ul {
+  
+  background-color: lightgrey;
+ 
+}
+
+
+  footer {
+  background-color: lightgrey;
+  padding: 5px;
+  text-align: center;
+  color: black;
+
+}
+a:hover {
+  color: pink;
+}
